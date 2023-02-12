@@ -8,7 +8,7 @@
 .. description: 
 .. type: text
 .. template:
-	post_graph.tmpl
+	base_mine.tmpl
 -->
 
 ####Acid base - status
