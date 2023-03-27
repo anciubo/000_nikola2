@@ -1,0 +1,4 @@
+Sitemap: https://anciubo.github.io/000_nikola2/sitemapindex.xml
+
+User-Agent: *
+Host: anciubo.github.io
